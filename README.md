@@ -1,4 +1,4 @@
-# RoboND-MCL-Lab
+# Monte Carlo Localization in Action
 Observed the `MCL` in action through the generated images. 
 
 ### Compiling the Program
